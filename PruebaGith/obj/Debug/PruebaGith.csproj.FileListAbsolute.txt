@@ -1,0 +1,8 @@
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\bin\Debug\PruebaGith.exe.config
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\bin\Debug\PruebaGith.exe
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\bin\Debug\PruebaGith.pdb
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csproj.AssemblyReference.cache
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csproj.SuggestedBindingRedirects.cache
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\obj\Debug\PruebaGith.csproj.CoreCompileInputs.cache
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\obj\Debug\PruebaGith.exe
+C:\Users\deivid.linares\Documents\Yesid Doc\PruebasGit\PruebaGith\PruebaGith\obj\Debug\PruebaGith.pdb
